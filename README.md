@@ -85,7 +85,9 @@
 <img src="Images/Readme-9.jpg" width="250">
 </p>
 
+## مرحله5و6:
 
+در این مرحله یک دامنه به نام beiranvand-havirkesht و با پسوند ir و همچنین یک هاست لینوکسی از وبسایت میهن وب هاست به آدرس [https://mihanwebhost.com](https://mihanwebhost.com) خریداری شده است و فایلهای مربوط به پروژه بر روی هاست قرار گرفته اند. 
 
 ## Table of contents
 
