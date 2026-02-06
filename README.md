@@ -127,4 +127,4 @@
 
 ## Author
 
-[@M-beiran-81](https://www.frontendmentor.io/profile/yourusername)
+[@M-beiran-81](https://github.com/M-beiran-81)
