@@ -13,13 +13,13 @@
 
 
 <p align="center">
-<img src="Images/Readme-1.png" width="600">
+<img src="Images/Readme-1.png" width="400">
 </p>
 
 ### نمونه Response
 
 <p align="center">
-<img src="Images/Readme-2.png" width="600">
+<img src="Images/Readme-2.png" width="400">
 </p>
 
 ## مرحله2:
@@ -29,11 +29,11 @@
 این کار باعث شد ارتباط بین رابط کاربری و سرویس‌های بک‌اند به‌صورت شفاف مشخص شود و مسیر تبادل داده‌ها در سیستم بهتر درک گردد.
 
 <p align="center">
-<img src="Images/Readme-3.png" width="400">
+<img src="Images/Readme-3.png" width="600">
 </p>
 
 <p align="center">
-<img src="Images/Readme-4.png" width="400">
+<img src="Images/Readme-4.png" width="600">
 </p>
 
 ## Table of contents
